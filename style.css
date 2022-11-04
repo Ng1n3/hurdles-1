@@ -518,6 +518,7 @@ and (min-width: 320px)
         url(images/bg-section-bottom-mobile-1.svg);
         background-repeat: no-repeat;
         background-position: top, bottom;
+        background-size: contain;
     }
 
     .features4 {
@@ -526,6 +527,7 @@ and (min-width: 320px)
         url(images/bg-section-bottom-mobile-2.svg);
         background-repeat: no-repeat;
         background-position: top, bottom;
+        background-size: contain;
     }
     
 
